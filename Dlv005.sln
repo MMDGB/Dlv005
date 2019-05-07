@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dlv005.UI", "Dlv005.UI\Dlv005.UI.csproj", "{FDDBF10E-9150-48EA-B16B-81998BE3BA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dlv005.BL", "Dlv005.BL\Dlv005.BL.csproj", "{12352A04-0643-4530-BDEB-72B37DADA87A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dlv005.DL", "Dlv005.DL\Dlv005.DL.csproj", "{CA2A7BBC-FD66-44B4-BFC0-09AE39445F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDDBF10E-9150-48EA-B16B-81998BE3BA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDBF10E-9150-48EA-B16B-81998BE3BA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDBF10E-9150-48EA-B16B-81998BE3BA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDBF10E-9150-48EA-B16B-81998BE3BA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12352A04-0643-4530-BDEB-72B37DADA87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12352A04-0643-4530-BDEB-72B37DADA87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12352A04-0643-4530-BDEB-72B37DADA87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12352A04-0643-4530-BDEB-72B37DADA87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2A7BBC-FD66-44B4-BFC0-09AE39445F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2A7BBC-FD66-44B4-BFC0-09AE39445F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2A7BBC-FD66-44B4-BFC0-09AE39445F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2A7BBC-FD66-44B4-BFC0-09AE39445F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B33D486-6512-43A6-A81A-FF19F243DC21}
+	EndGlobalSection
+EndGlobal

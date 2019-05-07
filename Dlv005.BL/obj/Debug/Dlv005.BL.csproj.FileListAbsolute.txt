@@ -1,0 +1,26 @@
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\bin\Debug\Dlv005.BL.dll.config
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\bin\Debug\Dlv005.BL.dll
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\bin\Debug\Dlv005.BL.pdb
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\bin\Debug\Dlv005.DL.dll
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\bin\Debug\Google.Protobuf.dll
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\bin\Debug\MySql.Data.dll
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\bin\Debug\Dlv005.DL.pdb
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\bin\Debug\MySql.Data.xml
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.csprojAssemblyReference.cache
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.csproj.CoreCompileInputs.cache
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.csproj.CopyComplete
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.dll
+C:\Users\denis.marchis\Desktop\Onboarding\Denis Marchis\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.pdb
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\bin\Debug\Dlv005.BL.dll.config
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\bin\Debug\Dlv005.BL.dll
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\bin\Debug\Dlv005.BL.pdb
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\bin\Debug\Dlv005.DL.dll
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\bin\Debug\Google.Protobuf.dll
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\bin\Debug\MySql.Data.dll
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\bin\Debug\Dlv005.DL.pdb
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\bin\Debug\MySql.Data.xml
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.csprojAssemblyReference.cache
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.csproj.CoreCompileInputs.cache
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.csproj.CopyComplete
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.dll
+C:\Users\denis.marchis\Desktop\Dlv005\Dlv005.BL\obj\Debug\Dlv005.BL.pdb
